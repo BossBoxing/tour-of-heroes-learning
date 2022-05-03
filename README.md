@@ -1,3 +1,11 @@
+# About
+
+โปรเจคนี้เป็นโปรเจค เรียนรู้การใช้ Angular เบื้องต้น
+
+# Author
+
+นายหัสวรรษ อัคติ @KKS
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
